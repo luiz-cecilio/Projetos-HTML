@@ -1,3 +1,2 @@
 # Projetos-HTML
-Trabalhos de Desenvolvimento Web
-Repositório criado para adicionar projetos de web.
+Repositório criado para adicionar todos os projetos que já participei envolvendo o ambiente WEB. Linguagens: HTML, CSS, JavaScript... Frameworks: React.js, Node.js...
